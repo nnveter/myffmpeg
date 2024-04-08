@@ -1,4 +1,4 @@
-module myffmpeg
+module github.com/nnveter/myffmpeg
 
 go 1.20
 
