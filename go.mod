@@ -1,4 +1,4 @@
-module awesomeProject1
+module myffmpeg
 
 go 1.20
 
